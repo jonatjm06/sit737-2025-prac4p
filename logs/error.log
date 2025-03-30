@@ -1,0 +1,2 @@
+{"level":"error","message":"Invalid input: Inputs must be numbers","service":"calculator-microservice"}
+{"level":"error","message":"Division by zero error","service":"calculator-microservice"}

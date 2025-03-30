@@ -1,0 +1,8 @@
+{"level":"info","message":"Server started on port 3000","service":"calculator-microservice"}
+{"level":"info","message":"Operation: add, num1: 10, num2: 5, result: 15","service":"calculator-microservice"}
+{"level":"info","message":"Operation: subtract, num1: 10, num2: 5, result: 5","service":"calculator-microservice"}
+{"level":"info","message":"Operation: multiply, num1: 10, num2: 5, result: 50","service":"calculator-microservice"}
+{"level":"info","message":"Operation: divide, num1: 10, num2: 5, result: 2","service":"calculator-microservice"}
+{"level":"info","message":"Operation: add, num1: 10, num2: 5, result: 15","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input: Inputs must be numbers","service":"calculator-microservice"}
+{"level":"error","message":"Division by zero error","service":"calculator-microservice"}

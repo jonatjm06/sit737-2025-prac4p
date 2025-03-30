@@ -24,15 +24,11 @@ Before running this microservice, ensure you have the following installed:
    git clone <repository-url>
    cd sit737-2025-prac4p
    ```
-2. **Initialize a new Node.js project:**
-   ```sh
-   npm init -y
-   ```
-3. **Install required dependencies:**
+2. **Install required dependencies:**
    ```sh
    npm install express winston axios
    ```
-4. **Run the microservice:**
+3. **Run the microservice:**
    ```sh
    node app.js
    ```
